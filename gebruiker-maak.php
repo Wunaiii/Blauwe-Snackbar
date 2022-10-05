@@ -31,7 +31,7 @@ include 'database.php';
                 <label for="phonenumber">phonenumber</label>
                 <input type="text" class="form-control" placeholder="Voer uw phonenumber in" name="phonenumber" required>
             </div>
-        <br> <button type="submit" class="btn btn-primary">Create/button>
+        <br> <button type="submit" class="btn btn-primary"> Create</button>
         </form>
         </div>
     </body>
